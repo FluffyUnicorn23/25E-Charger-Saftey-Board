@@ -1,1 +1,1 @@
-![chargerboard](CHARGERBOARD25E.png)
+![chargerboard](CHARGERBOARD25e.png)
